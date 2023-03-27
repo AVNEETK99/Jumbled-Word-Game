@@ -13,7 +13,7 @@ Jumbled words game is a word puzzle game where the letters of a word are scrambl
 
 * Open a command prompt or terminal window and navigate to the folder where you extracted the code.
 
-* Type python jumbled.py and press Enter to start the game.
+* Type ```python jumbled.py``` and press Enter to start the game.
 
 * Follow the prompts to play the game.
 
